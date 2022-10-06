@@ -4,7 +4,7 @@ This is my final project in the course of [Data Science for Cybersecurity](https
 
 
 ## Topic
-### Detection of Malicious Websites Using Machine Learning and Deep Learning Techniques
+**Detection of Malicious Websites Using Machine Learning and Deep Learning Techniques**
 
 
 ## Abstract
