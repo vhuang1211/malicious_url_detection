@@ -1,6 +1,6 @@
 # Data Science for Cybersecurity - Final Project
 
-This is my final project in the course of [Data Science for Cybersecurity](https://sites.google.com/view/mikehsiao/teaching/data-science-for-cybersecurity-2022?authuser=0). Students are required to perform the analysis in security-related dataset using artificial intelligence techniques.
+This is my final project in the course of [Data Science for Cybersecurity](https://sites.google.com/view/mikehsiao/teaching/data-science-for-cybersecurity-2022?authuser=0). This project requires us to perform the analysis of security-related dataset using artificial intelligence techniques.
 
 
 ## Topic
