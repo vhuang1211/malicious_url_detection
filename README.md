@@ -1,10 +1,6 @@
-# Data Science for Cybersecurity - Final Project
+# Detection of Malicious Websites Using Machine Learning and Deep Learning Techniques
 
 This is my final project in the course of [Data Science for Cybersecurity](https://sites.google.com/view/mikehsiao/teaching/data-science-for-cybersecurity-2022?authuser=0). This project requires us to perform the analysis of security-related dataset using artificial intelligence techniques.
-
-
-## Topic
-**Detection of Malicious Websites Using Machine Learning and Deep Learning Techniques**
 
 
 ## Abstract
